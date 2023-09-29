@@ -1,0 +1,857 @@
+09/22/2023 02:43:39 PM: INFO: *********Test001Login**********
+09/22/2023 02:43:49 PM: INFO: *********Login successful**********
+09/22/2023 02:43:54 PM: INFO: *********Test001Login PASSED**********
+09/22/2023 02:45:23 PM: INFO: *********Test001Login**********
+09/22/2023 02:45:26 PM: INFO: *********Login successful**********
+09/22/2023 02:45:31 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:05:53 PM: INFO: *********Test001Login**********
+09/22/2023 03:05:55 PM: INFO: *********Login successful**********
+09/22/2023 03:06:01 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:07:09 PM: INFO: *********Test001Login**********
+09/22/2023 03:07:10 PM: INFO: *********Login successful**********
+09/22/2023 03:07:16 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:07:51 PM: INFO: *********Test001Login**********
+09/22/2023 03:08:03 PM: INFO: *********Login successful**********
+09/22/2023 03:08:08 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:09:45 PM: INFO: *********Test001Login**********
+09/22/2023 03:09:47 PM: INFO: *********Login successful**********
+09/22/2023 03:09:52 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:10:34 PM: INFO: *********Test001Login**********
+09/22/2023 03:10:37 PM: INFO: *********Login successful**********
+09/22/2023 03:10:42 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:11:13 PM: INFO: *********Test001Login**********
+09/22/2023 03:11:16 PM: INFO: *********Login successful**********
+09/22/2023 03:11:21 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:13:08 PM: INFO: *********Test001Login**********
+09/22/2023 03:13:11 PM: INFO: *********Login successful**********
+09/22/2023 03:13:16 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:19:33 PM: INFO: *********HomePage or Login page**********
+09/22/2023 03:19:35 PM: INFO: *********Test001Login**********
+09/22/2023 03:19:37 PM: INFO: *********Login successful**********
+09/22/2023 03:19:42 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:20:23 PM: INFO: *********Test001Login**********
+09/22/2023 03:20:23 PM: INFO: *********Login successful**********
+09/22/2023 03:20:26 PM: INFO: *********HomePage or Login page**********
+09/22/2023 03:20:29 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:21:13 PM: INFO: *********Test001Login**********
+09/22/2023 03:21:15 PM: INFO: *********Login successful**********
+09/22/2023 03:21:18 PM: INFO: *********HomePage or Login page**********
+09/22/2023 03:21:20 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 03:22:12 PM: INFO: *********Test001Login**********
+09/22/2023 03:22:14 PM: INFO: *********Login successful**********
+09/22/2023 03:22:17 PM: INFO: *********HomePage or Login page**********
+09/22/2023 03:22:19 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 08:48:37 PM: INFO: *********HomePage or Login page**********
+09/22/2023 08:48:45 PM: INFO: *********Test001Login**********
+09/22/2023 08:48:46 PM: INFO: *********Login successful**********
+09/22/2023 08:48:51 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 08:49:45 PM: INFO: *********HomePage or Login page**********
+09/22/2023 08:49:53 PM: INFO: *********Test001Login**********
+09/22/2023 08:49:54 PM: INFO: *********Login successful**********
+09/22/2023 08:49:59 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 08:50:18 PM: INFO: *********Test001Login**********
+09/22/2023 08:50:20 PM: INFO: *********Login successful**********
+09/22/2023 08:50:23 PM: INFO: *********HomePage or Login page**********
+09/22/2023 08:50:25 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 08:52:06 PM: INFO: *********Test001Login**********
+09/22/2023 08:52:08 PM: INFO: *********Login successful**********
+09/22/2023 08:52:10 PM: INFO: *********HomePage or Login page**********
+09/22/2023 08:52:13 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:01:52 PM: INFO: *********Test001Login**********
+09/22/2023 09:01:54 PM: INFO: *********Login successful**********
+09/22/2023 09:01:56 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:01:59 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:15:26 PM: INFO: *********Test001Login**********
+09/22/2023 09:15:28 PM: INFO: *********Login successful**********
+09/22/2023 09:15:30 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:15:34 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:17:38 PM: INFO: *********Test001Login**********
+09/22/2023 09:17:40 PM: INFO: *********Login successful**********
+09/22/2023 09:17:42 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:17:46 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:18:26 PM: INFO: *********Test001Login**********
+09/22/2023 09:18:28 PM: INFO: *********Login successful**********
+09/22/2023 09:18:30 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:18:33 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:19:30 PM: INFO: *********Test001Login**********
+09/22/2023 09:19:33 PM: INFO: *********Login successful**********
+09/22/2023 09:19:34 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:19:38 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:29:55 PM: INFO: *********Test001Login**********
+09/22/2023 09:29:57 PM: INFO: *********Login successful**********
+09/22/2023 09:29:59 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:30:02 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:43:36 PM: INFO: *********Test001Login**********
+09/22/2023 09:43:38 PM: INFO: *********Login successful**********
+09/22/2023 09:43:41 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:43:44 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:46:52 PM: INFO: *********Test001Login**********
+09/22/2023 09:46:54 PM: INFO: *********Login successful**********
+09/22/2023 09:46:56 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:46:59 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 09:51:10 PM: INFO: *********Test001Login**********
+09/22/2023 09:51:13 PM: INFO: *********Login successful**********
+09/22/2023 09:51:14 PM: INFO: *********HomePage or Login page**********
+09/22/2023 09:51:18 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 10:29:23 PM: INFO: *********Test001Login**********
+09/22/2023 10:29:25 PM: INFO: *********Login successful**********
+09/22/2023 10:29:27 PM: INFO: *********HomePage or Login page**********
+09/22/2023 10:29:30 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 10:32:25 PM: INFO: *********Test001Login**********
+09/22/2023 10:32:27 PM: INFO: *********Login successful**********
+09/22/2023 10:32:29 PM: INFO: *********HomePage or Login page**********
+09/22/2023 10:32:32 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 10:33:13 PM: INFO: *********Test001Login**********
+09/22/2023 10:33:15 PM: INFO: *********Login successful**********
+09/22/2023 10:33:17 PM: INFO: *********HomePage or Login page**********
+09/22/2023 10:33:20 PM: INFO: *********Test001Login PASSED YEAH**********
+09/22/2023 10:42:03 PM: INFO: *********Test001Login**********
+09/22/2023 10:42:05 PM: INFO: *********Login successful**********
+09/22/2023 10:42:07 PM: INFO: *********HomePage or Login page**********
+09/22/2023 10:42:10 PM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 12:09:23 AM: INFO: *********Test001Login**********
+09/23/2023 12:09:24 AM: INFO: *********Login successful**********
+09/23/2023 12:09:27 AM: INFO: *********HomePage or Login page**********
+09/23/2023 12:09:29 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 12:13:28 AM: INFO: *********Test001Login**********
+09/23/2023 12:13:29 AM: INFO: *********Login successful**********
+09/23/2023 12:13:31 AM: INFO: *********HomePage or Login page**********
+09/23/2023 12:13:34 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 12:18:34 AM: INFO: *********Test001Login**********
+09/23/2023 12:18:36 AM: INFO: *********Login successful**********
+09/23/2023 12:18:38 AM: INFO: *********HomePage or Login page**********
+09/23/2023 12:18:41 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 01:46:28 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 01:46:28 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 01:46:30 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 01:46:30 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 01:46:37 AM: INFO: ***Passed***
+09/23/2023 11:19:26 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:19:26 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:19:30 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:19:30 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:30:24 AM: INFO: *********Test001Login**********
+09/23/2023 11:30:34 AM: INFO: *********Login successful**********
+09/23/2023 11:30:39 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 11:32:17 AM: INFO: *********Test001Login**********
+09/23/2023 11:32:26 AM: INFO: *********Login successful**********
+09/23/2023 11:32:31 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 11:33:35 AM: INFO: *********HomePage or Login page**********
+09/23/2023 11:33:42 AM: INFO: *********Test001Login**********
+09/23/2023 11:33:47 AM: INFO: *********Login successful**********
+09/23/2023 11:33:52 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 11:34:43 AM: INFO: *********Test001Login**********
+09/23/2023 11:34:47 AM: INFO: *********HomePage or Login page**********
+09/23/2023 11:34:48 AM: INFO: *********Login successful**********
+09/23/2023 11:34:53 AM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 11:37:25 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:37:25 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:37:25 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:37:25 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:37:27 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:37:27 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:37:39 AM: INFO: ***Failed***
+09/23/2023 11:38:11 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:38:11 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:38:13 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:38:13 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:38:25 AM: INFO: ***Failed***
+09/23/2023 11:42:05 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:42:05 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:42:05 AM: INFO: ***End of LoginDDT Test***
+09/23/2023 11:42:05 AM: INFO: ***Completed TC_Login 002***
+09/23/2023 11:42:07 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:42:07 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:42:20 AM: INFO: ***Failed***
+09/23/2023 11:43:11 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:43:11 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:43:23 AM: INFO: ***Failed***
+09/23/2023 11:43:52 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:43:52 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:43:59 AM: INFO: ***Failed***
+09/23/2023 11:44:05 AM: INFO: ***Passed***
+09/23/2023 11:44:11 AM: INFO: ***Passed***
+09/23/2023 11:44:17 AM: INFO: ***Passed***
+09/23/2023 11:44:17 AM: INFO: ***LoginDDT Test Failed***
+09/23/2023 11:49:17 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:49:17 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:49:30 AM: INFO: ***Failed***
+09/23/2023 11:52:45 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:52:45 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:52:58 AM: INFO: ***Failed***
+09/23/2023 11:55:00 AM: INFO: *********Test002_DDTLogin**********
+09/23/2023 11:55:00 AM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 11:55:13 AM: INFO: ***Passed***
+09/23/2023 02:28:44 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 02:28:44 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 02:28:55 PM: INFO: ***Passed+++***
+09/23/2023 02:30:34 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 02:30:34 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:23:11 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:23:11 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:24:00 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:24:00 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:27:59 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:27:59 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:28:50 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:28:50 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:29:44 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:29:44 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:32:36 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:32:36 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 03:34:59 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 03:34:59 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:27:14 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:27:14 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:28:31 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:28:31 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:30:00 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:30:00 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:31:02 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:31:02 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:33:05 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:33:05 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:34:21 PM: INFO: *********Test001Login**********
+09/23/2023 07:34:28 PM: INFO: *********Login successful**********
+09/23/2023 07:34:33 PM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 07:36:08 PM: INFO: *********Test001Login**********
+09/23/2023 07:36:13 PM: INFO: *********HomePage or Login page**********
+09/23/2023 07:36:14 PM: INFO: *********Login successful**********
+09/23/2023 07:36:19 PM: INFO: *********Test001Login PASSED YEAH**********
+09/23/2023 07:36:48 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:36:48 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:38:05 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:38:05 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:38:52 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:38:52 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:41:49 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:41:49 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:41:51 PM: INFO: Number of rows: 5
+09/23/2023 07:42:01 PM: INFO: ***Failed***
+09/23/2023 07:42:01 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:42:03 PM: INFO: ***LoginDDT Test Failed***
+09/23/2023 07:43:32 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:43:32 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:43:33 PM: INFO: Number of rows: 5
+09/23/2023 07:43:45 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:46:41 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:46:41 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:46:43 PM: INFO: Number of rows: 5
+09/23/2023 07:46:53 PM: INFO: ***Failed***
+09/23/2023 07:46:53 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:47:19 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:47:19 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:47:19 PM: INFO: Number of rows: 5
+09/23/2023 07:47:27 PM: INFO: ***Failed***
+09/23/2023 07:47:28 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:48:52 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:48:52 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:48:54 PM: INFO: Number of rows: 5
+09/23/2023 07:49:04 PM: INFO: ***Failed***
+09/23/2023 07:49:04 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:49:49 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:49:49 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:49:52 PM: INFO: Number of rows: 5
+09/23/2023 07:50:00 PM: INFO: ***Failed***
+09/23/2023 07:50:00 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:50:02 PM: INFO: ***LoginDDT Test Failed***
+09/23/2023 07:50:25 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:50:25 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:50:26 PM: INFO: Number of rows: 5
+09/23/2023 07:50:34 PM: INFO: ***Failed***
+09/23/2023 07:50:34 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:50:36 PM: INFO: ***LoginDDT Test Passed***
+09/23/2023 07:56:01 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:56:01 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:56:02 PM: INFO: Number of rows: 5
+09/23/2023 07:56:12 PM: INFO: ***Failed***
+09/23/2023 07:56:13 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:56:13 PM: INFO: ***LoginDDT Test Failed***
+09/23/2023 07:58:31 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:58:31 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:58:32 PM: INFO: Number of rows: 5
+09/23/2023 07:58:42 PM: INFO: ***Failed***
+09/23/2023 07:58:42 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:58:42 PM: INFO: ***LoginDDT Test Failed***
+09/23/2023 07:59:35 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 07:59:35 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 07:59:37 PM: INFO: Number of rows: 5
+09/23/2023 07:59:47 PM: INFO: ***Passed***
+09/23/2023 07:59:47 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 07:59:47 PM: INFO: ***LoginDDT Test Passed***
+09/23/2023 08:02:51 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 08:02:51 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 08:02:53 PM: INFO: Number of rows: 5
+09/23/2023 08:03:03 PM: INFO: ***Passed***
+09/23/2023 08:03:03 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 08:03:03 PM: INFO: ***LoginDDT Test Passed***
+09/23/2023 08:03:03 PM: INFO: ***End of LoginDDT Test***
+09/23/2023 08:03:03 PM: INFO: ***Completed TC_Login 002***
+09/23/2023 08:05:25 PM: INFO: *********Test002_DDTLogin**********
+09/23/2023 08:05:25 PM: INFO: *********Verifying DDt Login Test**********
+09/23/2023 08:05:27 PM: INFO: Number of rows: 5
+09/23/2023 08:05:37 PM: INFO: ***Passed***
+09/23/2023 08:05:37 PM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758B852A2+57122]
+	(No symbol) [0x00007FF758AFEA92]
+	(No symbol) [0x00007FF7589CE3AB]
+	(No symbol) [0x00007FF758A07D3E]
+	(No symbol) [0x00007FF758A07E2C]
+	(No symbol) [0x00007FF758A40B67]
+	(No symbol) [0x00007FF758A2701F]
+	(No symbol) [0x00007FF758A3EB82]
+	(No symbol) [0x00007FF758A26DB3]
+	(No symbol) [0x00007FF7589FD2B1]
+	(No symbol) [0x00007FF7589FE494]
+	GetHandleVerifier [0x00007FF758E2EF82+2849794]
+	GetHandleVerifier [0x00007FF758E81D24+3189156]
+	GetHandleVerifier [0x00007FF758E7ACAF+3160367]
+	GetHandleVerifier [0x00007FF758C16D06+653702]
+	(No symbol) [0x00007FF758B0A208]
+	(No symbol) [0x00007FF758B062C4]
+	(No symbol) [0x00007FF758B063F6]
+	(No symbol) [0x00007FF758AF67A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/23/2023 08:05:37 PM: INFO: ***LoginDDT Test Passed***
+09/23/2023 08:05:37 PM: INFO: ***End of LoginDDT Test***
+09/23/2023 08:05:37 PM: INFO: ***Completed TC_Login 002***
+09/24/2023 01:25:21 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:25:21 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:25:22 AM: INFO: Number of rows: 5
+09/24/2023 01:25:33 AM: INFO: ***Passed***
+09/24/2023 01:25:33 AM: ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=116.0.5845.188); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DF2F52A2+57122]
+	(No symbol) [0x00007FF7DF26EA92]
+	(No symbol) [0x00007FF7DF13E3AB]
+	(No symbol) [0x00007FF7DF177D3E]
+	(No symbol) [0x00007FF7DF177E2C]
+	(No symbol) [0x00007FF7DF1B0B67]
+	(No symbol) [0x00007FF7DF19701F]
+	(No symbol) [0x00007FF7DF1AEB82]
+	(No symbol) [0x00007FF7DF196DB3]
+	(No symbol) [0x00007FF7DF16D2B1]
+	(No symbol) [0x00007FF7DF16E494]
+	GetHandleVerifier [0x00007FF7DF59EF82+2849794]
+	GetHandleVerifier [0x00007FF7DF5F1D24+3189156]
+	GetHandleVerifier [0x00007FF7DF5EACAF+3160367]
+	GetHandleVerifier [0x00007FF7DF386D06+653702]
+	(No symbol) [0x00007FF7DF27A208]
+	(No symbol) [0x00007FF7DF2762C4]
+	(No symbol) [0x00007FF7DF2763F6]
+	(No symbol) [0x00007FF7DF2667A3]
+	BaseThreadInitThunk [0x00007FFF84397344+20]
+	RtlUserThreadStart [0x00007FFF853C26B1+33]
+
+09/24/2023 01:25:33 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:25:33 AM: INFO: ***End of LoginDDT Test***
+09/24/2023 01:25:33 AM: INFO: ***Completed TC_Login 002***
+09/24/2023 01:28:54 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:28:54 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:28:55 AM: INFO: Number of rows: 5
+09/24/2023 01:29:05 AM: INFO: ***Passed***
+09/24/2023 01:34:43 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:34:43 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:34:44 AM: INFO: Number of rows: 5
+09/24/2023 01:34:54 AM: INFO: ***Passed***
+09/24/2023 01:35:01 AM: INFO: ***Passed***
+09/24/2023 01:35:07 AM: INFO: ***Passed***
+09/24/2023 01:35:13 AM: INFO: ***Passed***
+09/24/2023 01:35:13 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:37:18 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:37:18 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:37:20 AM: INFO: Number of rows: 5
+09/24/2023 01:37:29 AM: INFO: ***Passed***
+09/24/2023 01:37:36 AM: INFO: ***Passed***
+09/24/2023 01:37:42 AM: INFO: ***Passed***
+09/24/2023 01:37:47 AM: INFO: ***Passed***
+09/24/2023 01:37:47 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:37:48 AM: INFO: ***End of LoginDDT Test***
+09/24/2023 01:37:48 AM: INFO: ***Completed TC_Login 002***
+09/24/2023 01:41:54 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:41:54 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:41:56 AM: INFO: Number of rows: 5
+09/24/2023 01:42:06 AM: INFO: ***Passed***
+09/24/2023 01:42:13 AM: INFO: ***Passed***
+09/24/2023 01:42:19 AM: INFO: ***Passed***
+09/24/2023 01:42:25 AM: INFO: ***Passed***
+09/24/2023 01:42:25 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:42:25 AM: INFO: ***End of LoginDDT Test***
+09/24/2023 01:42:25 AM: INFO: ***Completed TC_Login 002***
+09/24/2023 01:46:47 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:46:47 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:46:49 AM: INFO: Number of rows: 5
+09/24/2023 01:46:59 AM: INFO: ***Passed***
+09/24/2023 01:47:06 AM: INFO: ***Passed***
+09/24/2023 01:47:12 AM: INFO: ***Passed***
+09/24/2023 01:47:18 AM: INFO: ***Passed***
+09/24/2023 01:47:18 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:47:18 AM: INFO: ***End of LoginDDT Test***
+09/24/2023 01:47:18 AM: INFO: ***Completed TC_Login 002***
+09/24/2023 01:48:40 AM: INFO: *********Test002_DDTLogin**********
+09/24/2023 01:48:40 AM: INFO: *********Verifying DDt Login Test**********
+09/24/2023 01:48:40 AM: INFO: Number of rows: 5
+09/24/2023 01:48:56 AM: INFO: ***Passed***
+09/24/2023 01:49:08 AM: INFO: ***Passed***
+09/24/2023 01:49:18 AM: INFO: ***Passed***
+09/24/2023 01:49:29 AM: INFO: ***Passed***
+09/24/2023 01:49:29 AM: INFO: ***LoginDDT Test Passed***
+09/24/2023 01:49:29 AM: INFO: ***End of LoginDDT Test***
+09/24/2023 01:49:29 AM: INFO: ***Completed TC_Login 002***
+09/28/2023 01:32:28 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 01:33:08 PM: INFO: ********* Login successful **********
+09/28/2023 01:33:08 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 01:33:41 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 01:33:47 PM: INFO: ********* Login successful **********
+09/28/2023 01:33:47 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:00:36 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:00:41 PM: INFO: ********* Login successful **********
+09/28/2023 04:00:41 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:01:27 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:01:33 PM: INFO: ********* Login successful **********
+09/28/2023 04:01:33 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:01:35 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:01:57 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:02:02 PM: INFO: ********* Login successful **********
+09/28/2023 04:02:02 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:02:06 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:02:59 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:03:04 PM: INFO: ********* Login successful **********
+09/28/2023 04:03:04 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:03:08 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:04:45 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:04:53 PM: INFO: ********* Login successful **********
+09/28/2023 04:04:53 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:05:02 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:05:19 PM: INFO: ********* Login successful **********
+09/28/2023 04:05:19 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:05:31 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:05:36 PM: INFO: ********* Login successful **********
+09/28/2023 04:05:36 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:06:21 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:06:34 PM: INFO: ********* Login successful **********
+09/28/2023 04:06:34 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:07:00 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:07:19 PM: INFO: ******* Saving Customer Details ********
+09/28/2023 04:07:19 PM: INFO: ******* Add Customer Validation Started ********
+09/28/2023 04:07:20 PM: INFO: ******* Add Customer Test Failed ********
+09/28/2023 04:08:13 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:08:25 PM: INFO: ********* Login successful **********
+09/28/2023 04:08:25 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:08:38 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:09:03 PM: INFO: ******* Saving Customer Details ********
+09/28/2023 04:09:03 PM: INFO: ******* Add Customer Validation Started ********
+09/28/2023 04:09:04 PM: INFO: ******* Add Customer Test Failed ********
+09/28/2023 04:09:19 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:09:34 PM: INFO: ********* Login successful **********
+09/28/2023 04:09:34 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:09:53 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:10:18 PM: INFO: ******* Saving Customer Details ********
+09/28/2023 04:10:18 PM: INFO: ******* Add Customer Validation Started ********
+09/28/2023 04:10:18 PM: INFO: ******* Add Customer Test Passed ********
+09/28/2023 04:10:18 PM: INFO: ******* Ending Add Customer Test********
+09/28/2023 04:14:28 PM: INFO: ***** Test_003_AddCustomer *****
+09/28/2023 04:14:37 PM: INFO: ********* Login successful **********
+09/28/2023 04:14:37 PM: INFO: ******* Starting Add Customer Page ******
+09/28/2023 04:14:50 PM: INFO: ******* Providing Customer Details ********
+09/28/2023 04:15:14 PM: INFO: ******* Saving Customer Details ********
+09/28/2023 04:15:14 PM: INFO: ******* Add Customer Validation Started ********
+09/28/2023 04:15:14 PM: INFO: ******* Add Customer Test Passed ********
+09/28/2023 04:15:14 PM: INFO: ******* Ending Add Customer Test********
+09/28/2023 05:40:52 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:41:01 PM: INFO: ********* Login successful **********
+09/28/2023 05:41:10 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:42:00 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:42:09 PM: INFO: ********* Login successful **********
+09/28/2023 05:42:16 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:42:49 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:42:58 PM: INFO: ********* Login successful **********
+09/28/2023 05:43:06 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:47:26 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:47:38 PM: INFO: ********* Login successful **********
+09/28/2023 05:47:46 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:48:19 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:48:28 PM: INFO: ********* Login successful **********
+09/28/2023 05:48:36 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:50:00 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:50:10 PM: INFO: ********* Login successful **********
+09/28/2023 05:50:18 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:50:18 PM: INFO: ******* Ending Search Customer Test********
+09/28/2023 05:50:49 PM: INFO: ***** Test_004_SearchCustomer *****
+09/28/2023 05:50:58 PM: INFO: ********* Login successful **********
+09/28/2023 05:51:06 PM: INFO: ******* Starting Search Customer Page ******
+09/28/2023 05:51:10 PM: INFO: ******* Ending Search Customer Test********
+09/29/2023 02:29:07 AM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 02:29:16 AM: INFO: ********* Login successful **********
+09/29/2023 02:29:16 AM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 02:29:25 AM: INFO: *******  Searching Customer By Email ******
+09/29/2023 02:30:26 AM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 02:30:33 AM: INFO: ********* Login successful **********
+09/29/2023 02:30:33 AM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 02:30:41 AM: INFO: *******  Searching Customer By Email ******
+09/29/2023 02:33:57 AM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 02:34:11 AM: INFO: ********* Login successful **********
+09/29/2023 02:34:11 AM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 02:34:20 AM: INFO: *******  Searching Customer By Email ******
+09/29/2023 02:34:31 AM: INFO: ******* Test_004_SearchCustomer Finished********
+09/29/2023 02:38:42 AM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 02:38:51 AM: INFO: ********* Login successful **********
+09/29/2023 02:38:51 AM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 02:39:00 AM: INFO: *******  Searching Customer By Email ******
+09/29/2023 02:39:10 AM: INFO: ******* Test_004_SearchCustomer Finished********
+09/29/2023 02:39:20 AM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 02:39:30 AM: INFO: ********* Login successful **********
+09/29/2023 02:39:30 AM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 02:39:40 AM: INFO: *******  Searching Customer By Name ******
+09/29/2023 02:39:45 AM: INFO: ******* Test_005_SearchCustomer Finished********
+09/29/2023 12:08:04 PM: INFO: ***** Test_003_AddCustomer *****
+09/29/2023 12:08:14 PM: INFO: ********* Login successful **********
+09/29/2023 12:08:14 PM: INFO: ******* Starting Add Customer Page ******
+09/29/2023 12:08:31 PM: INFO: ******* Providing Customer Details ********
+09/29/2023 12:08:57 PM: INFO: ******* Saving Customer Details ********
+09/29/2023 12:08:57 PM: INFO: ******* Add Customer Validation Started ********
+09/29/2023 12:08:57 PM: INFO: ******* Add Customer Test Passed ********
+09/29/2023 12:08:57 PM: INFO: ******* Ending Add Customer Test********
+09/29/2023 12:11:45 PM: INFO: ***** Test_003_AddCustomer *****
+09/29/2023 12:11:55 PM: INFO: ********* Login successful **********
+09/29/2023 12:11:55 PM: INFO: ******* Starting Add Customer Page ******
+09/29/2023 12:12:07 PM: INFO: ******* Providing Customer Details ********
+09/29/2023 12:12:33 PM: INFO: ******* Saving Customer Details ********
+09/29/2023 12:12:33 PM: INFO: ******* Add Customer Validation Started ********
+09/29/2023 12:12:33 PM: INFO: ******* Add Customer Test Passed ********
+09/29/2023 12:12:33 PM: INFO: ******* Ending Add Customer Test********
+09/29/2023 12:12:35 PM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 12:12:44 PM: INFO: ********* Login successful **********
+09/29/2023 12:12:44 PM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 12:12:52 PM: INFO: *******  Searching Customer By Email ******
+09/29/2023 12:13:02 PM: INFO: ******* Test_004_SearchCustomer Finished********
+09/29/2023 12:13:04 PM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 12:13:13 PM: INFO: ********* Login successful **********
+09/29/2023 12:13:13 PM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 12:13:21 PM: INFO: *******  Searching Customer By Name ******
+09/29/2023 12:13:26 PM: INFO: ******* Test_005_SearchCustomer Finished********
+09/29/2023 12:15:08 PM: INFO: *********HomePage or Login page**********
+09/29/2023 12:15:17 PM: INFO: *********Test001Login**********
+09/29/2023 12:15:24 PM: INFO: *********Login successful**********
+09/29/2023 12:15:29 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:15:55 PM: INFO: *********HomePage or Login page**********
+09/29/2023 12:16:02 PM: INFO: *********Test001Login**********
+09/29/2023 12:16:09 PM: INFO: *********Login successful**********
+09/29/2023 12:16:15 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:16:40 PM: INFO: *********Test001Login**********
+09/29/2023 12:16:48 PM: INFO: *********Login successful**********
+09/29/2023 12:16:53 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:17:16 PM: INFO: *********HomePage or Login page**********
+09/29/2023 12:17:24 PM: INFO: *********Test001Login**********
+09/29/2023 12:17:28 PM: INFO: *********Login successful**********
+09/29/2023 12:17:34 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:18:36 PM: INFO: *********HomePage or Login page**********
+09/29/2023 12:18:44 PM: INFO: *********Test001Login**********
+09/29/2023 12:18:49 PM: INFO: *********Login successful**********
+09/29/2023 12:18:54 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:19:12 PM: INFO: *********Test001Login**********
+09/29/2023 12:19:19 PM: INFO: *********Login successful**********
+09/29/2023 12:19:24 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:19:31 PM: INFO: *********Test001Login**********
+09/29/2023 12:19:36 PM: INFO: *********Login successful**********
+09/29/2023 12:19:41 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:20:06 PM: INFO: *********HomePage or Login page**********
+09/29/2023 12:20:13 PM: INFO: *********Test001Login**********
+09/29/2023 12:20:21 PM: INFO: *********Login successful**********
+09/29/2023 12:20:26 PM: INFO: *********Test001Login PASSED YEAH**********
+09/29/2023 12:21:23 PM: INFO: *********Test002_DDTLogin**********
+09/29/2023 12:21:23 PM: INFO: *********Verifying DDt Login Test**********
+09/29/2023 12:21:24 PM: INFO: Number of rows: 5
+09/29/2023 12:21:39 PM: INFO: ***Passed***
+09/29/2023 12:21:53 PM: INFO: ***Passed***
+09/29/2023 12:22:04 PM: INFO: ***Passed***
+09/29/2023 12:22:16 PM: INFO: ***Passed***
+09/29/2023 12:22:16 PM: INFO: ***LoginDDT Test Passed***
+09/29/2023 12:22:16 PM: INFO: ***End of LoginDDT Test***
+09/29/2023 12:22:16 PM: INFO: ***Completed TC_Login 002***
+09/29/2023 12:23:18 PM: INFO: ***** Test_003_AddCustomer *****
+09/29/2023 12:23:29 PM: INFO: ********* Login successful **********
+09/29/2023 12:23:29 PM: INFO: ******* Starting Add Customer Page ******
+09/29/2023 12:23:34 PM: INFO: ***** Test_004_SearchCustomer *****
+09/29/2023 12:23:42 PM: INFO: ********* Login successful **********
+09/29/2023 12:23:42 PM: INFO: ******* Starting Search Customer Page ******
+09/29/2023 12:43:57 PM: INFO: ***** Test_003_AddCustomer *****
+09/29/2023 12:44:08 PM: INFO: ********* Login successful **********
+09/29/2023 12:44:08 PM: INFO: ******* Starting Add Customer Page ******
+09/29/2023 12:44:21 PM: INFO: ******* Providing Customer Details ********
+09/29/2023 12:44:47 PM: INFO: ******* Saving Customer Details ********
+09/29/2023 12:44:47 PM: INFO: ******* Add Customer Validation Started ********
+09/29/2023 12:44:47 PM: INFO: ******* Add Customer Test Passed ********
+09/29/2023 12:44:47 PM: INFO: ******* Ending Add Customer Test********
+09/29/2023 01:01:20 PM: INFO: ***** Test_003_AddCustomer *****
+09/29/2023 01:01:31 PM: INFO: ********* Login successful **********
+09/29/2023 01:01:31 PM: INFO: ******* Starting Add Customer Page ******
